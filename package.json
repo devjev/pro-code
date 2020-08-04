@@ -1,6 +1,7 @@
 {
     "name": "pro-code",
     "displayName": "Pro Code",
+    "publisher": "devjev",
     "description": "A color theme inspired by professional software like Adobe Photoshop and Ableton Live.",
     "version": "0.0.1",
     "engines": {
