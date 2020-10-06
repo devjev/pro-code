@@ -1,22 +1,22 @@
 {
-    "name": "pro-code",
-    "displayName": "Pro Code",
-    "publisher": "devjev",
-    "description": "A color theme inspired by professional software like Adobe Photoshop and Ableton Live.",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.47.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Pro Code",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Pro Code-color-theme.json"
-            }
-        ]
-    }
+  "name": "pro-code",
+  "displayName": "Pro Code",
+  "publisher": "devjev",
+  "description": "A color theme inspired by professional software like Adobe Photoshop and Ableton Live.",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.47.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pro Code",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pro Code-color-theme.json"
+      }
+    ]
+  }
 }

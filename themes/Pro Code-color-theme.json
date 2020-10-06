@@ -2,7 +2,7 @@
   "name": "Pro Code",
   "type": "dark",
   "colors": {
-    "editor.background": "#4d4d4d",
+    "editor.background": "#404040",
     "editor.foreground": "#eaeaea",
     "editor.foldBackground": "#464646",
     "editor.lineHighlightBackground": "#545454",
@@ -16,6 +16,10 @@
     "activityBarBadge.background": "#212121",
     "activityBar.background": "#464646",
     "sideBarTitle.foreground": "#c3c3c3",
+    "gitDecoration.modifiedResourceForeground": "#6d93ff",
+    "gitDecoration.untrackedResourceForeground": "#58ecb2",
+    "list.warningForeground": "#ffe67a",
+    "list.errorForeground": "#da1a32",
     "sideBar.background": "#3a3a3a",
     "statusBar.background": "#212121",
     "tab.inactiveBackground": "#323232",
@@ -156,7 +160,7 @@
         "constant.escape"
       ],
       "settings": {
-        "foreground": "#a3cceb"
+        "foreground": "#acd3da"
       }
     },
     {
@@ -503,7 +507,7 @@
       "name": "Markdown - Link",
       "scope": ["string.other.link.title.markdown"],
       "settings": {
-        "foreground": "#a3cceb"
+        "foreground": "#0042ff"
       }
     },
     {
@@ -572,6 +576,28 @@
       "scope": ["markup.table"],
       "settings": {
         "foreground": "#a0a0a0"
+      }
+    },
+    {
+      "name": "Rust: fn, pub, crate, mut, let, for, match, etc...",
+      "scope": [
+        "keyword.other.fn.rust",
+        "keyword.other.rust",
+        "storage.modifier.visibility.rust",
+        "storage.modifier.mut.rust",
+        "keyword.control.rust"
+      ],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#c0c0c0"
+      }
+    },
+    {
+      "name": "Rust (Experimental): Reference Sigil",
+      "scope": ["keyword.operator.sigil.rust"],
+      "settings": {
+        "foreground": "#6d93ff",
+        "fontStyle": "italic"
       }
     }
   ]
