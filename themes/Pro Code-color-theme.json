@@ -507,7 +507,7 @@
       "name": "Markdown - Link",
       "scope": ["string.other.link.title.markdown"],
       "settings": {
-        "foreground": "#0042ff"
+        "foreground": "#6d93ff"
       }
     },
     {
