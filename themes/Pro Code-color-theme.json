@@ -2,32 +2,53 @@
   "name": "Pro Code",
   "type": "dark",
   "colors": {
-    "editor.background": "#404040",
+    "editor.background": "#3e3e3e",
     "editor.foreground": "#e0e0e0",
     "editor.foldBackground": "#464646",
-    "editor.lineHighlightBackground": "#545454",
+    "editor.lineHighlightBackground": "#484848",
+
     "editor.selectionBackground": "#323232",
-    "editorGroupHeader.tabsBackground": "#323232",
+
     "editorGutter.addedBackground": "#356d53",
     "editorGutter.deletedBackground": "#da1a32",
     "editorGutter.modifiedBackground": "#3a3a3a",
+
     "editorLineNumber.foreground": "#5d5d5d",
+
     "editorCursor.foreground": "#58ecb2",
-    "activityBarBadge.background": "#212121",
-    "activityBar.background": "#464646",
-    "sideBarTitle.foreground": "#c3c3c3",
+
+    "activityBarBadge.foreground": "#ffffff",
+    "activityBarBadge.background": "#356d53",
+    "activityBar.background": "#101010",
+
     "gitDecoration.modifiedResourceForeground": "#6d93ff",
     "gitDecoration.untrackedResourceForeground": "#58ecb2",
+
+    "list.activeSelectionBackground": "#58ecb2",
+    "list.inactiveSelectionBackground": "#212121",
+
     "list.warningForeground": "#ffe67a",
     "list.errorForeground": "#da1a32",
-    "sideBar.background": "#3a3a3a",
-    "statusBar.background": "#212121",
+
+    "sideBar.background": "#323232",
+    "sideBarTitle.foreground": "#c3c3c3",
+
+    "statusBar.background": "#101010",
+
     "tab.inactiveBackground": "#323232",
     "tab.border": "#323232",
-    "tab.hoverBackground": "#58ecb2",
-    "tab.hoverForeground": "#212121",
     "tab.activeBorderTop": "#58ecb2",
-    "titleBar.activeBackground": "#212121"
+    "tab.hoverBackground": "#58ecb2",
+    "tab.hoverForeground": "#101010",
+
+    "editorGroupHeader.tabsBackground": "#323232",
+
+    "titleBar.activeBackground": "#101010",
+
+    "menu.background": "#323232",
+    "menu.foreground": "#ffffff",
+    "menu.selectionBackground": "#58ecb2",
+    "menu.selectionForeground": "#101010"
   },
   "tokenColors": [
     {
