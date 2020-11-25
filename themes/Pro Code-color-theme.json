@@ -2,7 +2,7 @@
   "name": "Pro Code",
   "type": "dark",
   "colors": {
-    "editor.background": "#3e3e3e",
+    "editor.background": "#383838",
     "editor.foreground": "#e0e0e0",
     "editor.foldBackground": "#464646",
     "editor.lineHighlightBackground": "#484848",
@@ -19,13 +19,14 @@
 
     "activityBarBadge.foreground": "#ffffff",
     "activityBarBadge.background": "#356d53",
-    "activityBar.background": "#101010",
+    "activityBar.background": "#242424",
 
     "gitDecoration.modifiedResourceForeground": "#6d93ff",
     "gitDecoration.untrackedResourceForeground": "#58ecb2",
 
     "list.activeSelectionBackground": "#58ecb2",
-    "list.inactiveSelectionBackground": "#212121",
+    "list.activeSelectionForeground": "#101010",
+    "list.inactiveSelectionBackground": "#242424",
 
     "list.warningForeground": "#ffe67a",
     "list.errorForeground": "#da1a32",
@@ -46,7 +47,7 @@
     "titleBar.activeBackground": "#101010",
 
     "menu.background": "#323232",
-    "menu.foreground": "#ffffff",
+    "menu.foreground": "#b0b0b0",
     "menu.selectionBackground": "#58ecb2",
     "menu.selectionForeground": "#101010"
   },
